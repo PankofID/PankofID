@@ -21,6 +21,9 @@
 #### 📒 [Notepad](https://github.com/DanVolov/Notepad)
 Простой блокнот на Python с графическим интерфейсом Tkinter
 
+#### 🔢 [Calculator](https://github.com/DanVolov/Calculator)
+Простой калькулятор на Python с использованием модуля customtkinter.
+
 ---
 
 ### 🧠 Навыки
