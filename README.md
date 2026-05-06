@@ -24,6 +24,9 @@
 #### 🔢 [Calculator](https://github.com/DanVolov/Calculator)
 Простой калькулятор на Python с использованием модуля customtkinter.
 
+#### 🧰 [Task-Manager-API](https://github.com/DanVolov/Task-Manager-API)
+Итоговый проект по итогу изучения FastAPI
+
 ---
 
 ### 🧠 Навыки
