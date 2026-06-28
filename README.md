@@ -44,10 +44,9 @@
 ---
 
 ### 📫 Контакты
-- **VK:** [@d.pankov3](https://vk.com/d.pankov3)
 - **Telegram:** [@PankofID](https://t.me/pankofid)
 - **X (Twitter):** [@PankofID](https://x.com/pankofid)
-- **YouTube:** [@VolerianGovernments](https://youtube.com/@voleriangovernments)
+- **YouTube:** [@PankofID](https://www.youtube.com/@PankofID)
 - **Instagram:** [@pankofid](https://www.instagram.com/pankofid)
 
 ---
