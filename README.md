@@ -16,6 +16,9 @@
 #### 🧰 [Task-Manager-API](https://github.com/DanVolov/Task-Manager-API)
 Итоговый проект по результатам изучения FastAPI
 
+#### 🤖 [ToDo-Bot](https://github.com/PankofID/ToDo-Bot)
+Телеграм-бот "To Do list" на фреймворке Aiogram
+
 ---
 
 ### 🧠 Навыки
