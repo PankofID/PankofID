@@ -7,17 +7,6 @@
 
 ### 💼 Мои проекты
 
-#### 🗳️ [VolerianGovCEC](https://github.com/DanVolov/VolerianGovCEC)
-Веб-сайт **Центральной избирательной комиссии Королевства Волерия** —  
-виртуального государства моего авторства.  
-
-#### 🤖 [VK-bot-CEC](https://github.com/DanVolov/VK-bot-CEC)
-Бот для **ВКонтакте**, связанный с сайтом проекта VolerianGovCEC.  
-Позволяет пользователям подтвердить регистрацию и получить помощь.
-
-#### 🐍 [Python-Lessons-by-Evgeny-Morkovin](https://github.com/DanVolov/Python-Lessons-by-Evgeny-Morkovin)
-Репозиторий с учебными проектами и задачами, выполненными в процессе изучения Python.
-
 #### 📒 [Notepad](https://github.com/DanVolov/Notepad)
 Простой блокнот на Python с графическим интерфейсом Tkinter
 
