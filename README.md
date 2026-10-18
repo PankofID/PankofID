@@ -31,7 +31,7 @@
 
 ### 📊 Статистика GitHub
 ![Stats](https://github-readme-stats.vercel.app/api?username=pankofid&show_icons=true&theme=transparent&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankofid&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PankofID&layout=compact&theme=transparent&langs_count=20)
 
 ---
 
